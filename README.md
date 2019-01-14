@@ -13,13 +13,13 @@
 ### 本地构建
 
 ```
-git clone git@github.com:xpwi/otpPro.git
+git clone https://github.com/xpwi/otpPro.git
 ```
 
 或者：
 
 ```
-git clone https://github.com/xpwi/otpPro.git
+git clone git@github.com:xpwi/otpPro.git
 ```
 
  
