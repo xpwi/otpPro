@@ -15,6 +15,11 @@
 ```
 git clone git@github.com:xpwi/otpPro.git
 ```
+或者：
+```
+git clone https://github.com/xpwi/otpPro.git
+```
+
  
  
 ### 我的博客
